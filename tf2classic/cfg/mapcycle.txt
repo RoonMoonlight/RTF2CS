@@ -1,0 +1,159 @@
+# Arena Mode
+arena_badlands
+arena_flask
+arena_floodgate
+arena_granary
+arena_lumberyard
+arena_nucleus
+arena_offblast_final
+arena_ravine
+arena_sawmill
+arena_watchtower
+arena_well
+
+# Arena Mode (Community)
+arena_4walls
+arena_aspen_ft_rc2
+arena_downtown_rc3
+arena_snowcastle_b3
+
+# Attack & Defense
+cp_amaranth
+cp_dustbowl
+cp_egypt_final
+cp_furnace_rc1
+cp_gorge
+cp_gravelpit
+cp_junction_final
+cp_mountainlab
+cp_steel
+
+# Attack & Defense (Community)
+cp_baxter_b5
+cp_holdout_rc1d
+cp_outflow_b4
+
+# Medieval Mode
+cp_degrootkeep
+
+# Medieval Mode (Community)
+cp_burghausen_rc1
+
+# Capture the Flag
+ctf_2fort
+ctf_casbah
+ctf_doublecross
+ctf_landfall
+ctf_pelican_peak
+ctf_sawmill
+ctf_turbine
+ctf_well
+
+# Capture the Flag (Community)
+ctf_applejack_rc1
+ctf_monkeynaut_b5
+ctf_nuclide_rc8d
+
+# Control Points
+cp_badlands
+cp_coldfront
+cp_fastlane
+cp_foundry
+cp_freight_final1
+cp_5gorge
+cp_granary
+cp_gullywash_final1
+cp_powerhouse
+cp_tidal_v4
+cp_well
+cp_yukon_final
+
+# Control Points (Community)
+cp_ancient_b4
+cp_canaveral_5cp_rc5c
+cp_coilblaze_rc8
+cp_sultry_b8
+
+# Domination
+dom_hydro
+dom_krepost
+dom_oilcanyon
+dom_railway
+dom_sawtooth
+
+# Domination (Community)
+dom_flood2_redux_rc2
+dom_powerhouse_v1
+dom_terminus
+
+# King of the Hill
+koth_badlands
+koth_frigid
+koth_harvest_final
+koth_highpass
+koth_king
+koth_lakeside_final
+koth_nucleus
+koth_sawmill
+koth_viaduct
+
+# King of the Hill (Community)
+koth_fragile_rc2
+koth_gamma_rc1
+koth_logwash_rc6a
+
+# Payload
+pl_badwater
+pl_barnblitz
+pl_frontier_final
+pl_goldrush
+pl_hoodoo_final
+pl_jinn
+pl_thundermountain
+pl_upward
+
+# Payload (Community)
+pl_jerrycan_rc5
+pl_desolation_rc1c
+pl_extinction_rc3
+
+# Payload Race
+plr_hightower
+plr_nightfall_final
+plr_pipeline
+
+# Payload Race (Community)
+plr_cutter_b5
+
+# Special Delivery
+sd_doomsday
+
+# Special Delivery (Community)
+sd_toucan_final2
+
+# Team Deathmatch (Community)
+tdm_crossfire
+
+# Territorial Control
+tc_hydro
+
+# Territorial Domination
+td_caper
+td_sunnyside
+
+# VIP Mode
+vip_badwater
+vip_harbor
+vip_mineside
+vip_trainyard
+
+# VIP Mode (Community)
+vip_ambush
+vip_brew
+
+# VIP Race
+vipr_2bridge
+vipr_drizzle
+
+# VIP Race (Community)
+vipr_hightower_v4
