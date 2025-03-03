@@ -52,7 +52,6 @@ Notice: Mods are not included on this repository due to copyright reasons. You n
 
 ### Additional Notes
 * **[Little Anti-Cheat by J-Tanzanite](https://github.com/J-Tanzanite/Little-Anti-Cheat) is now obsolete as they are now discontinued.** TF2C has built-in anti cheat features to make it harder to cheat in-game so they are not included.
-* 
 
 ## Special Thanks
 * SilentFox3, shualdock, and various plugin authors for creating/maintaining mods and plugins,
