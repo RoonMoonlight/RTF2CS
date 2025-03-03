@@ -28,7 +28,7 @@
 
 ## List of Plugins/Mods
 ### Plugins
-* [Accelerator](https://forums.alliedmods.net/showthread.php?t=277703)
+* [Accelerator by asherkin](https://forums.alliedmods.net/showthread.php?t=277703)
 * [NativeVotes Updated by Sapphonie](https://github.com/sapphonie/sourcemod-nativevotes-updated)
 * [Improved Ban Disconnected by eyal282](https://forums.alliedmods.net/showthread.php?t=326810)
 * [rafmod Optimized only by rafradek](https://github.com/rafradek/sigsegv-mvm)
