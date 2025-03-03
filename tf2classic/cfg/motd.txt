@@ -1,0 +1,11 @@
+"Welcome back, my dear."
+
+Welcome to Roon's TF2 Classic Server / RTF2CS v1.0.0
+GitHub: github.com/RoonMoonlight/RTF2CS
+
+General rules:
+1. Use common sense
+2. Play fair: Do not (attempt to) cheat, exploit or crash the server in any form
+3. Have fun
+
+This server is NOT affiliated with Eminoma, Valve Corporation.
