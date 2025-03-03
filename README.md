@@ -39,6 +39,7 @@
 * [SteamWorks.ext Update Check by KyleS](https://forums.alliedmods.net/showthread.php?p=2331846)
 * [TF2Classic Tools by EMINOMA](https://github.com/tf2classic/SM-TF2Classic-Tools)
 * [TF2 Classic Schema Downloader by azzyr](https://github.com/azzyr/TF2Classic-SchemaDownloader)
+* [Unused Voicelines by nanochip](https://forums.alliedmods.net/showthread.php?p=2733016)
 * [Updater fork by nukkonyan](https://github.com/nukkonyan/Updater)
 
 ### Mods
