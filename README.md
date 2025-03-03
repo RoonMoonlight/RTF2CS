@@ -31,6 +31,7 @@
 * [Accelerator by asherkin](https://forums.alliedmods.net/showthread.php?t=277703)
 * [NativeVotes Updated by Sapphonie](https://github.com/sapphonie/sourcemod-nativevotes-updated)
 * [Improved Ban Disconnected by eyal282](https://forums.alliedmods.net/showthread.php?t=326810)
+* [MapChooser Extended fork by Totenfluch](https://github.com/Totenfluch/sourcemod-mapchooser-extended)
 * [rafmod Optimized only by rafradek](https://github.com/rafradek/sigsegv-mvm)
 * [S-Downloader by Starbish & digin](https://forums.alliedmods.net/showpost.php?p=2716215&postcount=63)
 * [SQLite Bans by eyal282](https://forums.alliedmods.net/showthread.php?p=2647678)
