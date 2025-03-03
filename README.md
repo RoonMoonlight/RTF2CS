@@ -45,7 +45,6 @@
 Notice: Mods are not included on this repository due to copyright reasons. You need to download it manually on the author's page.
 
 * [Bots Expansion Pack by shualdock](https://gamebanana.com/mods/373568)
-* [The New-Old Weapons Pack by SilentFox3](https://gamebanana.com/mods/40389)
 * [New-Old Weapons Pack by SilentFox3](https://gamebanana.com/mods/40389)
 * [Extra Bot Names by SilentFox3](https://gamebanana.com/mods/40378)
 
