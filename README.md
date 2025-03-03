@@ -32,6 +32,7 @@
 * [NativeVotes Updated by Sapphonie](https://github.com/sapphonie/sourcemod-nativevotes-updated)
 * [Improved Ban Disconnected by eyal282](https://forums.alliedmods.net/showthread.php?t=326810)
 * [rafmod Optimized only by rafradek](https://github.com/rafradek/sigsegv-mvm)
+* [S-Downloader by Starbish & digin](https://forums.alliedmods.net/showpost.php?p=2716215&postcount=63)
 * [SQLite Bans by eyal282](https://forums.alliedmods.net/showthread.php?p=2647678)
 * [SteamWorks by KyleS](https://forums.alliedmods.net/showthread.php?t=229556)
 * [SteamWorks Game Description Override by sabertooth135](https://forums.alliedmods.net/showthread.php?p=2232352)
@@ -45,8 +46,10 @@ Notice: Mods are not included on this repository due to copyright reasons. You n
 
 * [Bots Expansion Pack by shualdock](https://gamebanana.com/mods/373568)
 * [The New-Old Weapons Pack by SilentFox3](https://gamebanana.com/mods/40389)
+* [New-Old Weapons Pack by SilentFox3](https://gamebanana.com/mods/40389)
 * [Extra Bot Names by SilentFox3](https://gamebanana.com/mods/40378)
 
+### Additional Notes
 ## Special Thanks
 * SilentFox3, shualdock, azzyr, nukkonyan, Sapphonie for creating/maintaining mods and plugins,
 * leignmacdonald for [server configuration references](https://github.com/leighmacdonald/uncletopia),
