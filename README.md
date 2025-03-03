@@ -54,7 +54,7 @@ Notice: Mods are not included on this repository due to copyright reasons. You n
 * 
 
 ## Special Thanks
-* SilentFox3, shualdock, azzyr, nukkonyan, Sapphonie for creating/maintaining mods and plugins,
+* SilentFox3, shualdock, and various plugin authors for creating/maintaining mods and plugins,
 * leignmacdonald for [server configuration references](https://github.com/leighmacdonald/uncletopia),
 * EMINOMA for creating TF2C mod,
 * Valve Corporation for creating TF2 and supporting TF2 modding projects,
