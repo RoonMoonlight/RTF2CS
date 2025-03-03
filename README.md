@@ -46,7 +46,7 @@
 ### Mods
 Notice: Mods are not included on this repository due to copyright reasons. You need to download it manually on the author's page.
 
-* [Bots Expansion Pack by shualdock](https://gamebanana.com/mods/373568)
+* [TF2C improved Bot navigations mod by Markus M. Wyand](https://gamebanana.com/mods/452384)
 * [New-Old Weapons Pack by SilentFox3](https://gamebanana.com/mods/40389)
 * [Extra Bot Names by SilentFox3](https://gamebanana.com/mods/40378)
 
