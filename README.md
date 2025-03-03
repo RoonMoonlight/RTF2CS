@@ -1,6 +1,6 @@
 <!-- TITLE -->
 <p align="center">
-  <img src="/assets/rtf2cs_banner.png" width="800" height="400">
+  <img src="/assets/rtf2cs_banner.png">
   <b>RTF2CS: Roon's TF2 Classic Server</b>
   <p align="center">
     Revived from ashes from 2 years ago, now serving Steam players!
