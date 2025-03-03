@@ -38,7 +38,6 @@
 * [SteamWorks.ext Update Check by KyleS](https://forums.alliedmods.net/showthread.php?p=2331846)
 * [TF2Classic Tools by EMINOMA](https://github.com/tf2classic/SM-TF2Classic-Tools)
 * [TF2 Classic Schema Downloader by azzyr](https://github.com/azzyr/TF2Classic-SchemaDownloader)
-* [TF2 Edict Limiter by sapphonie](https://github.com/sapphonie/tf2-edict-limiter/tree/a0e176554fa36c5f9d2187239729c2486494501c)
 * [Updater fork by nukkonyan](https://github.com/nukkonyan/Updater)
 
 ### Mods
